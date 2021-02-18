@@ -1,3 +1,7 @@
 teste
 oiiiii
+<<<<<<< HEAD
 esta linha foi modificada no ramo master
+=======
+esta linha foi modificada
+>>>>>>> teste
